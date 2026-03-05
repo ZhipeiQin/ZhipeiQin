@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **zhipeiqin17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JoajCmOwUXdOvk4bHuTrRXUXsTvqQf0a/view?usp=drive_link](https://drive.google.com/file/d/1JoajCmOwUXdOvk4bHuTrRXUXsTvqQf0a/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link
+
+- 🌏 My personal website: https://bbmozdkdjdob2.ok.kimi.link/
 
 - ⚡ Fun fact **I have traveled 44 countries now**
 
