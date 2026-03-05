@@ -1,11 +1,16 @@
 <h1 align="center">Hi, this is Zhipei</h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
-- 🔭 I’m currently working on [The publication of my Master's Project:Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf)
+- 📕 I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester.
+  
+- 🖊  I have more than two years working experience in Machine Learning Engineering and Data Science.
 
-- 🌱 I’m currently learning **Databricks, Fabric, Azure**
+- 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project:Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
+      my first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
 
-- 👯 I’m looking to collaborate on **Deep Learning and Machine Learning Related Topics**
+- 🌱 I’m currently learning **Fabric, Azure, AWS**.
+
+- 👯 I’m looking to collaborate on **Data Science Deep Learning and Machine Learning Related Topics**
 
 - 📫 How to reach me **zhipeiqin17@gmail.com**
 
