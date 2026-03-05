@@ -6,7 +6,7 @@
 - 🖊  I have more than two years working experience in Machine Learning Engineering and Data Science.
 
 - 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project:Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
-      my first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
+      My first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
 
 - 🌱 I’m currently learning **Fabric, Azure, AWS**.
 
@@ -18,7 +18,7 @@
 
 - 🌏 My personal website: https://bbmozdkdjdob2.ok.kimi.link/
 
-- ⚡ Fun fact **I have traveled 44 countries now**
+- ⚡ Fun fact: **I have traveled 44 countries now. I have two cute rats 🐀🐀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
