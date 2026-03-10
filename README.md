@@ -8,7 +8,7 @@
 - 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
       My first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
 
-- 👨‍🏫 My expertise covers the entire data science lifecycle: from collecting and preprocessing large-scale noisy data and executing advanced feature engineering, to building and managing scalable data model pipelines, and using data processing frameworks such as Pandas and Spark for analysis and prediction, such as time series forecasting and anomaly detection.
+- 👨‍🏫 My expertise covers the entire data science lifecycle: from collecting and preprocessing large-scale noisy data and executing advanced feature engineering, to building and managing scalable data model pipelines, and using data processing frameworks such as Pandas and Spark for analysis and prediction.
 
 - 🌱 I’m currently learning **Azure, AWS，Kubernetes**.
 
