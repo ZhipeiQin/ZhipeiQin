@@ -1,7 +1,7 @@
 <h1 align="center">Hey, this is Zhipei! Welcome to my Github!😊</h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
-- 🖊  I have a solid academic background and work experience in data science, data engineering, and AI. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, and cloud computing, and I have a solid foundation in mathematics, statistics, and probability theory.
+- 🖊  I have a solid academic background and work experience in data science, data engineering, and AI. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, and cloud computing。
 
 - 📕 I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester.
 
