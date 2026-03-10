@@ -19,8 +19,8 @@
 - 🌏 My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
 - ⚡ Interesting things about me: **I have traveled 44 countries now.**
--                                  **I'm a rat lover with two rat girls🐀🐀.**
--                                  **My favorite bands are Sweet Trip, Toe and Yo La Tengo. My favorite film director are Jim Jarmusch and Aki Kaurismäki.**
+                                   **I'm a rat lover with two rat girls🐀🐀.**
+                                   **My favorite bands are Sweet Trip, toe and Yo La Tengo. My favorite film directors are Jim Jarmusch and Aki Kaurismäki.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
