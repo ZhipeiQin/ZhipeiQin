@@ -1,22 +1,22 @@
-<h1 align="center">Hi, this is Zhipei</h1>
+<h1 align="center">Hey, this is Zhipei! Welcome to my Github!😊</h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
-- 📕 I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester.
-  
-- 🖊  I have more than two years working experience in Machine Learning Engineering and Data Science.
+- 🖊  I have a solid academic background and work experience in data science, data engineering, and AI. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, and cloud computing, and I have a solid foundation in mathematics, statistics, and probability theory.
 
-- 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project:Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
+- 📕 I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester.
+
+- 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
       My first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
 
-- 🌱 I’m currently learning **Fabric, Azure, AWS**.
+- 👨‍🏫 My expertise covers the entire data science lifecycle: from collecting and preprocessing large-scale noisy data and executing advanced feature engineering, to building and managing scalable data model pipelines, and using data processing frameworks such as Pandas and Spark for analysis and prediction, such as time series forecasting and anomaly detection.
 
-- 👯 I’m looking to collaborate on **Data Science Deep Learning and Machine Learning Related Topics**
+- 🌱 I’m currently learning **Azure, AWS，Kubernetes**.
 
-- 📫 How to reach me **zhipeiqin17@gmail.com**
+- 📫 How to reach me: **zhipeiqin17@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link
+- 📄 Know about my experiences: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link
 
-- 🌏 My personal website: https://bbmozdkdjdob2.ok.kimi.link/
+- 🌏 My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
 - ⚡ Fun fact: **I have traveled 44 countries now. I have two cute rats 🐀🐀**
 
