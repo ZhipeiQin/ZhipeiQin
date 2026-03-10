@@ -1,4 +1,4 @@
-<h1 align="center">Hey, this is Zhipei! Welcome to my Github!:)))))</h1>
+<h1 align="center">Hey, this is Zhipei! Welcome to my Github! :)))))</h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
 - 🖊  I have a solid academic background and work experience in data science, data engineering, and AI. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, and cloud computing。
@@ -18,7 +18,9 @@
 
 - 🌏 My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
-- ⚡ Fun fact: **I have traveled 44 countries now. I have two cute rats 🐀🐀**
+- ⚡ Interesting things about me: **I have traveled 44 countries now.
+-                                    I'm a rat lover with two🐀🐀.
+-                                    My favorite bands are Sweet Trip, Toe and Yo La Tengo. My favorite film director are Jim Jarmusch and Aki Kaurismäki.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
