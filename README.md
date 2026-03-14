@@ -10,7 +10,7 @@
 
 - 👨‍🏫 My expertise covers the entire data science lifecycle: from collecting and preprocessing large-scale noisy data and executing advanced feature engineering, to building and managing scalable data model pipelines, and using data processing frameworks such as Pandas and Spark for analysis and prediction.
 
-- 🌱 I’m currently learning **Azure, AWS, Kubernetes**.
+- 🌱 I’m currently learning **Cloud Archetiect: Azure, AWS; LLM Development: LangChain, RAG, Vector Database, SFT, LoFA.**
 
 - 📫 How to reach me: **zhipeiqin17@gmail.com**
 
