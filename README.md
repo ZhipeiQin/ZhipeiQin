@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my GGGGithub! :))))) (Most of the time, I'm the only one who gets welcomed. I know.) </h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
--   I have a solid academic background and work experience in **data science, machine learning engineering, and AI engineerin**. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, ETL pipeline, cloud computing, etc.
+-   I have a solid academic background and work experience in **data science, machine learning engineering, and AI engineering**. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, ETL pipeline, cloud computing, etc.
 
 -  My last master's thesis at Leiden University is about **Graph Neural Network (Graph Attention Network): [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).** I'm working on publishing it (fingers crossed). My first master's thesis at the University of Manchester is about dimensionality reduction of data in high-dimensional space (t-SNE). Now it seems like a toy project...
 
@@ -13,10 +13,11 @@
 -  My resume: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link <br>
    My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
--  Other things about me: **44 countries Traveled. Next travel plan is Bosnia and Herzegovina.** <br>
-                                   **A rat lover with two rat girls🐀🐀.** <br>
-                                   **Favorite bands are Sweet Trip, toe and Yo La Tengo. Favorite film directors are Jim Jarmusch and Aki Kaurismäki.** <br>
-                                   **Was young once, and want to be young again.**
+-  Other things about me:<br>
+-  **44 countries Traveled. Next travel plan is Bosnia and Herzegovina.** <br>
+   **A rat lover with two rat girls🐀🐀.** <br>
+   **Favorite bands are Sweet Trip, toe and Yo La Tengo. Favorite film directors are Jim Jarmusch and Aki Kaurismäki.** <br>
+   **Dominant Extraverted Intuition (Ne) and Introverted Feeling (Fi) user, which, of course, lead to ADHDs and Unhealthy lifestyle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
