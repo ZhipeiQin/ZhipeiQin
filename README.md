@@ -13,7 +13,7 @@
 -  My resume: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link <br>
    My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
--  Other things about me:<br>
+-  **Other things about me:**<br>
    44 countries Traveled. Next travel plan is Bosnia and Herzegovina. <br>
    A rat lover with two rat girls🐀🐀. <br>
    Favorite bands are Sweet Trip, toe and Yo La Tengo. Favorite film directors are Jim Jarmusch and Aki Kaurismäki. <br>
