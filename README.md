@@ -17,7 +17,7 @@
    44 countries Traveled. Next travel plan is Bosnia and Herzegovina. <br>
    A rat lover with two rat girls🐀🐀. <br>
    Favorite bands are Sweet Trip, toe and Yo La Tengo. Favorite film directors are Jim Jarmusch and Aki Kaurismäki. <br>
-   Dominant Extraverted Intuition (Ne) and Introverted Feeling (Fi) user, which, of course, lead to ADHDs and Unhealthy lifestyle.
+   Dominant Extraverted Intuition (Ne) and Introverted Feeling (Fi) user, which, of course, lead to ADHDs, unhealthy lifestyles, and unnecessary troubles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
