@@ -1,26 +1,21 @@
-<h1 align="center">Hey, this is Zhipei! Welcome to my Github! :)))))</h1>
+<h1 align="center"> Welcome to myyyyy Github! :))))) ((Most of the time, I'm the only one who gets welcomed.) </h1>
 <h3 align="center">I'm a Data Scientist from China, currently based in the Netherlands.</h3>
 
 - 🖊  I have a solid academic background and work experience in data science, data engineering, and AI. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, and cloud computing.
 
-- 📕 I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester.
+-  I have a master's degree of Computer Science in Leiden University, and a master's degree of Statistics in the University of Manchester. My last master's thesis is about Graph Neural Network: [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf). I'm working on publishing it (fingers crossed). My first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE). Now it seems like a toy project...
 
-- 🔭 My last master's thesis is about Graph Neural Network: [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).
-      My first master's thesis is about dimensionality reduction of data in high-dimensional space (t-SNE).
 
-- 👨‍🏫 My expertise covers the entire data science lifecycle: from collecting and preprocessing large-scale noisy data and executing advanced feature engineering, to building and managing scalable data model pipelines, and using data processing frameworks such as Pandas and Spark for analysis and prediction.
+-  I’m currently learning **Cloud Archetiect: Azure, AWS; LLM Development: LangChain, RAG, Vector Database, SFT, LoFA.**
 
-- 🌱 I’m currently learning **Cloud Archetiect: Azure, AWS; LLM Development: LangChain, RAG, Vector Database, SFT, LoFA.**
+-  How to reach me: **zhipeiqin17@gmail.com**
 
-- 📫 How to reach me: **zhipeiqin17@gmail.com**
+-  My resume: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link
+   My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link
-
-- 🌏 My personal website: https://6crouxnddf7xm.ok.kimi.link/
-
-- ⚡ Interesting things about me: **I have traveled 44 countries now.**
-                                   **I'm a rat lover with two rat girls🐀🐀.**
-                                   **My favorite bands are Sweet Trip, toe and Yo La Tengo. My favorite film directors are Jim Jarmusch and Aki Kaurismäki.**
+- ⚡ Interesting things about me: **44 countries Traveled. Next travel plan is Bosnia and Herzegovina.**
+                                   **A rat lover with two rat girls🐀🐀.**
+                                   **Favorite bands are Sweet Trip, toe and Yo La Tengo. Favorite film directors are Jim Jarmusch and Aki Kaurismäki.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
