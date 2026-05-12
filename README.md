@@ -3,7 +3,7 @@
 
 -   I have a solid academic background and work experience in **data science, machine learning engineering, and AI engineering**. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, ETL pipeline, cloud computing, etc.
 
--  My last master's thesis at Leiden University is about **Graph Neural Network (Graph Attention Network): [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).** I'm working on publishing it (fingers crossed). My first master's thesis at the University of Manchester is about dimensionality reduction of data in high-dimensional space (t-SNE). Now it seems like a toy project...
+-  My last master's thesis at Leiden University is about **Graph Neural Network (Graph Attention Network): [The publication of my Master's Project: Graph Neural Network](https://theses.liacs.nl/pdf/2024-2025-QinZZhipei.pdf).** I'm working on publishing it. My first master's thesis at the University of Manchester is about dimensionality reduction of data in high-dimensional space (t-SNE). Now it seems like a toy project...
 
 
 -  I’m currently learning Cloud Archetiect: Azure, AWS; LLM Development: LangChain, RAG, Vector Database, SFT, LoFA.
