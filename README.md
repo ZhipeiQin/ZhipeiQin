@@ -10,7 +10,7 @@
 
 -  How to reach me: **zhipeiqin17@gmail.com**
 
--  My resume: https://drive.google.com/file/d/11hAbNmoH1FcUnoBbFeNCehDSEUI-TXxP/view?usp=drive_link <br>
+-  My resume: https://drive.google.com/file/d/1LkPZ4K0iaTkTVdrGzyw3lf06FP0IhcCa/view?usp=sharing <br>
    My personal website: https://6crouxnddf7xm.ok.kimi.link/
 
 -  **Other things about me:**<br>
