@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my GGGGithub! :))))) (Most of the time, I'm the only one who gets welcomed. I know.) </h1>
-<h3 align="center">I'm a Data Scientist from China, currently I am an AI Engineer at Apple, based in Beijing.</h3>
+<h3 align="center">I'm Zhipei, currently I am an AI Engineer at Apple, based in Beijing, China.</h3>
 
 -   I have a solid academic background and work experience in **data science, machine learning engineering, and AI engineering**. My core skills include Python programming, deep learning, natural language processing, statistical modeling, databases, ETL pipeline, cloud computing, etc.
 
